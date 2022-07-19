@@ -12,6 +12,15 @@ p{
 }
 a{
     color:yellow;
+    font-size: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+li{
+    color: gray;
+    font-size: 20px;
 }
 
 .center {
